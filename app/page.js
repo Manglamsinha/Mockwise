@@ -68,7 +68,7 @@ export default function Home() {
           Lessss Go
         </Button>
         <p className="credit mt-4 text-sm text-right text-gray-400 font-serif">
-          © All rights reserved.<br/> Owned by Roushan <br />from NSUT
+          © All rights reserved.<br/> Owned by Manglam <br />from USICT 
         </p>
       </div>
 

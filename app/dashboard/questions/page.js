@@ -17,7 +17,7 @@ function Questions() {
                 <img src="https://cdn.pixabay.com/photo/2018/11/13/21/43/instagram-3814049__340.png" alt="about image" />
               </div>
             </div>
-            <h2 className='text-bold text-gray-500'>Roushan Kumar</h2>
+            <h2 className='text-bold text-gray-500'>Manglam Sinha</h2>
             <h3>Web developer</h3>
           </div>
           <ul className={styles.icons}>
@@ -37,7 +37,7 @@ function Questions() {
           <button type="button" className={`${styles['btn']} ${styles['btn-white']}`}>Git hub</button>
         </div>
         <div className={styles['about-para']}>
-         <p>I am currently a second-year student pursuing Electronics and Communication Engineering (ECE) at Netaji Subhas University of Technology (NSUT). I am passionate about coding and have developed multiple websites, showcasing my skills in web development. As a coder, I excel in problem-solving, algorithm design, and software development. My experience includes creating user-friendly interfaces, implementing functionality, and optimizing performance in web applications.</p>
+         <p>I am currently a third-year student pursuing a B.Tech in Information Technology at the University School of Information, Communication and Technology (USICT). I am passionate about software development and web technologies, with hands-on experience in building full-stack web applications. I enjoy solving complex problems, designing efficient algorithms, and developing scalable software solutions. My experience includes creating responsive and user-friendly interfaces, implementing robust backend functionality, and optimizing application performance using modern technologies. I am always eager to learn new tools and continuously improve my technical skills through real-world projects.</p>
         </div>
        
       </div>
