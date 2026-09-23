@@ -45,7 +45,7 @@ The architecture keeps UI, API, AI, and database responsibilities separated so t
 
 ---
 
-## Architecture At A Glance (Dabba View)
+## Architecture At A Glance 
 
 ```text
 +-------------------+       +--------------------------+       +----------------------+
@@ -273,25 +273,6 @@ Drizzle Studio (local development tool):
 ```bash
 npm run db:studio
 ```
-
----
-
-## Team & Credits
-
-| Role | Name | Contact |
-|------|------|---------|
-| **Admin** | Aditya | Project owner & primary maintainer — [aditya4313](https://github.com/aditya4313) |
-| **Collaborator & Contributor** | Manglam Sinha | Collaborator on this repository — manglamsinha441@gmail.com |
-
-### Acknowledgement
-
-This project was built and improved with active collaboration between **Aditya** (admin) and **Manglam Sinha** (collaborator & contributor).  
-Manglam contributed to development, architecture discussions, and implementation support alongside the core mock interview features.
-
-> **Note:** Aditya holds admin access and repository ownership. Manglam is credited as collaborator and contributor for joint work on this codebase.
-
----
-
 ## What This README Optimizes For
 
 - Fast onboarding for beginners
